@@ -38,4 +38,6 @@ conn.commit()
 cur.close()
 conn.close()
 bot.polling(none_stop=True)
+def hello():
+    pass
 
